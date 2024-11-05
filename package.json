@@ -1,6 +1,7 @@
 {
   "name": "sample-webpage",
   "version": "0.1.0",
+  "homepage": "https://Wizamari1138.github.io/sample-webpage",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
